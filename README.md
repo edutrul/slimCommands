@@ -4,20 +4,23 @@ Generate classes for rest api.
 
 Here's an attempt of the command:
 
-$ slim-create rest-api
-What is the main Class?
-Pets
-What methods do you want to implement? add comma
-GET, POST
-What are the attributes? <data_type>: $variable (follow with comman) hit enter when done
-string $firstName, string $lastName
+slim-create rest-api
+
+What is the main Class?:
+- Pets
+
+What methods do you want to implement? add comma:
+- GET, POST
+
+What are the attributes? <data_type>: $variable (follow with comman) hit enter when done:
+
+- string $firstName, string $lastName
 
 Do you want to include tests? 
-Yes
+- Yes
 
 Do you want to provide HardCodedData?
-Yes
-
+- Yes
 
 The following files have been created/updated
 
