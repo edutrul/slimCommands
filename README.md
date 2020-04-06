@@ -4,7 +4,7 @@ Generate classes for rest api.
 
 Here's an attempt of the command:
 
-slim-create rest-api
+`$ slim-create rest-api`
 
 What is the main Class?:
 - Pets
